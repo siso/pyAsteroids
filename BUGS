@@ -1,0 +1,5 @@
+- "spaceship destroyed! :)" and "really quit [y/n]?" messages overlap
+- fonts are loaded multiple times
+
+        debug: font 'data/fonts/led_real.ttf' loaded'
+        ...
